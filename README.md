@@ -33,4 +33,4 @@ These exercises can be used for:
 - Reviewing common SQL functions
 - Understanding basic data transformation techniques
 
-# For full course content and structured learning,- BrightLearn .
+### For full course content and structured learning- BrightLearn .
