@@ -1,6 +1,7 @@
 # Databricks-exercises
 ## Overview
-This folder contains SQL exercises, focused on practicing foundational SQL functions and data transformation techniques. The exercises are based on concepts taught in BrightLearn sessions.
+-This folder contains SQL exercises, focused on practicing foundational SQL functions and data transformation techniques. The exercises are based on concepts taught in BrightLearn sessions.
+-This repository contains key definitions of important business analytics terms used in the business field. The aim is to provide clear and simple explanations of core concepts used in marketing and performance analysis.
 
 ## Topics Covered
 SQL Fundamentals:
@@ -9,6 +10,9 @@ SQL Fundamentals:
 - Conditional Logic (CASE statements)
 - Date Functions
 - Null functions and Join functions and MORE.
+  
+Business Analytics
+- important terms used in the business field
   
 ## Skills Demonstrated
 - Writing SQL queries for data analysis
@@ -19,7 +23,8 @@ SQL Fundamentals:
 - To practice SQL concepts through hands-on exercises
 - To strengthen problem-solving and query-writing skills
 - To build a foundation for real-world data analysis
-- 
+  
+- To demonstrate understanding of fundamental business analytics concepts in a simple and professional format.
 ## Learning Source
 Exercises are based on concepts covered in** BrightLearn** classes.
 
