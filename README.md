@@ -26,7 +26,7 @@ Business Analytics
   
 - To demonstrate understanding of fundamental business analytics concepts in a simple and professional format.
 ## Learning Source
-Exercises are based on concepts covered in** BrightLearn** classes.
+Exercises are based on concepts covered in **BrightLearn** classes.
 
 ## Disclaimer
 - These are practice exercises completed during/after class
