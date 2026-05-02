@@ -1,7 +1,11 @@
-# Databricks-exercises
+# Exercises
 ## Overview
--This folder contains SQL exercises, focused on practicing foundational SQL functions and data transformation techniques. The exercises are based on concepts taught in BrightLearn sessions.
--This repository contains key definitions of important business analytics terms used in the business field. The aim is to provide clear and simple explanations of core concepts used in marketing and performance analysis.
+This repository contains SQL, BigQury, and Business Analytics exercises completed in both handwritten form and coding environments. These exercises focused on practicing foundational SQL functions and data transformation techniques. The exercises are based on concepts taught in BrightLearn sessions.
+
+## Content
+- Handwritten SQL and Business Analytics exercises
+- Coded SQL exercises implemented in Databricks
+- SQL queries executed in BigQuery
 
 ## Topics Covered
 SQL Fundamentals:
@@ -12,19 +16,14 @@ SQL Fundamentals:
 - Null functions and Join functions and MORE.
   
 Business Analytics
-- important terms used in the business field
-  
-## Skills Demonstrated
-- Writing SQL queries for data analysis
-- Applying aggregation to summarize datasets
-- Using conditional logic to categorize data
-- Transforming raw data into meaningful insights
+- key definitions of important business analytics terms used in the business field.
+   
 ## Purpose
 - To practice SQL concepts through hands-on exercises
 - To strengthen problem-solving and query-writing skills
 - To build a foundation for real-world data analysis
-  
 - To demonstrate understanding of fundamental business analytics concepts in a simple and professional format.
+  
 ## Learning Source
 Exercises are based on concepts covered in **BrightLearn** classes.
 
@@ -38,4 +37,8 @@ These exercises can be used for:
 - Reviewing common SQL functions
 - Understanding basic data transformation techniques
 
+## Tools Used
+Databricks
+Google BigQuery
+SQL
 ### For full course content and structured learning- BrightLearn .
